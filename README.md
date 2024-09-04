@@ -1,3 +1,4 @@
+## DATE:
 ## NAME:A K PREETHI
 ## REGISTER NO:212223230156
 # DISTANCE-BETWEEN-TWO-POINTS
@@ -6,12 +7,12 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: get the input from user
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: Then get the output
-### Step 5: 
+### Step 2: import math and initialise the two values
+### Step 3: Substitute the values in the distance formula  ![formula](/formula.JPG)
+### Step 4:print the values in format
+### Step 5: end the program
 ### PROGRAM:
+```
 import math
 
 def dis(x1,x2,y1,y2):
@@ -33,6 +34,7 @@ y2=6
 g=dis(x1,x2,y1,y2)
 
 print("{:.2f}".format(g))
+```
   
 
 
@@ -42,4 +44,5 @@ print("{:.2f}".format(g))
 
 
 ### RESULT:
+Thus the program has been executed successfully.
 Thus the program is executed successfully.
