@@ -1,7 +1,6 @@
 ## DATE:
-## NAME:A K PREETHI
-## REGISTER NO:212223230156
-# DISTANCE-BETWEEN-TWO-POINTS
+
+# EXP-3: DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
@@ -13,6 +12,10 @@ To write a python program to find the distance two 2 points
 ### Step 5: end the program
 ### PROGRAM:
 ```
+
+DEVELOPED BY:A K PREETHI
+REGISTER NUMBER:212223230156
+
 import math
 
 def dis(x1,x2,y1,y2):
